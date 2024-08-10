@@ -14,4 +14,4 @@
       * Relational Databases 
       * Non Relational Databases -> Key-value Databases, Document Databases, Column-family databases, graph databases
 
-3. Transactional Data Processing
+3. Transactional Data Processing (Read transactional_data_processing.txt for details)
