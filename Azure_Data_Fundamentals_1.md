@@ -9,7 +9,9 @@
       * Delimited Text Files
       * XML
       * JSON
-      * Optimized File Formats -> Avro, ORC, Paraquet
-      
+      * Optimized File Formats -> Avro, ORC, Paraquet (See optimized_file_fomats.txt for details)
+    - Databases
+      * Relational Databases 
+      * Non Relational Databases -> Key-value Databases, Document Databases, Column-family databases, graph databases
 
-  b. Databases
+3. Transactional Data Processing
