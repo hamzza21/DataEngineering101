@@ -1,13 +1,15 @@
+### Azure Data Fundamentals
 1. Data Formats:
-  a. Structured Data -> Relational Database
-  b. Semi Structured Data -> JSON
-  c. Unstructure Data -> Files, Images etc.
+    - Structured Data -> Relational Database
+    - Semi-Structured Data -> JSON
+    - Unstructured Data -> Files, Images etc.
 
 2. Data Stores:
-  a. File Storage
-    i. Delimited Text Files
-    ii. XML
-    iii. JSON
-
+    - File Storage
+      * Delimited Text Files
+      * XML
+      * JSON
+      * Optimized File Formats -> Avro, ORC, Paraquet
+      
 
   b. Databases
