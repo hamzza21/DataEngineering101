@@ -1,0 +1,13 @@
+1. Data Formats:
+  a. Structured Data -> Relational Database
+  b. Semi Structured Data -> JSON
+  c. Unstructure Data -> Files, Images etc.
+
+2. Data Stores:
+  a. File Storage
+    i. Delimited Text Files
+    ii. XML
+    iii. JSON
+
+
+  b. Databases
